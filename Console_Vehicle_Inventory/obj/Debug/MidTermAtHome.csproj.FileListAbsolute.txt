@@ -1,0 +1,21 @@
+C:\Users\xochi\OneDrive\Desktop\1175 Intro to Programming\MidTerm\MidTermAtHome\MidTermAtHome\bin\Debug\MidTermAtHome.exe.config
+C:\Users\xochi\OneDrive\Desktop\1175 Intro to Programming\MidTerm\MidTermAtHome\MidTermAtHome\bin\Debug\MidTermAtHome.exe
+C:\Users\xochi\OneDrive\Desktop\1175 Intro to Programming\MidTerm\MidTermAtHome\MidTermAtHome\bin\Debug\MidTermAtHome.pdb
+C:\Users\xochi\OneDrive\Desktop\1175 Intro to Programming\MidTerm\MidTermAtHome\MidTermAtHome\obj\Debug\MidTermAtHome.csproj.AssemblyReference.cache
+C:\Users\xochi\OneDrive\Desktop\1175 Intro to Programming\MidTerm\MidTermAtHome\MidTermAtHome\obj\Debug\MidTermAtHome.csproj.CoreCompileInputs.cache
+C:\Users\xochi\OneDrive\Desktop\1175 Intro to Programming\MidTerm\MidTermAtHome\MidTermAtHome\obj\Debug\MidTermAtHome.exe
+C:\Users\xochi\OneDrive\Desktop\1175 Intro to Programming\MidTerm\MidTermAtHome\MidTermAtHome\obj\Debug\MidTermAtHome.pdb
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\MidTerm\MidTermAtHome\MidTermAtHome\bin\Debug\MidTermAtHome.exe.config
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\MidTerm\MidTermAtHome\MidTermAtHome\bin\Debug\MidTermAtHome.exe
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\MidTerm\MidTermAtHome\MidTermAtHome\bin\Debug\MidTermAtHome.pdb
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\MidTerm\MidTermAtHome\MidTermAtHome\obj\Debug\MidTermAtHome.csproj.AssemblyReference.cache
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\MidTerm\MidTermAtHome\MidTermAtHome\obj\Debug\MidTermAtHome.csproj.CoreCompileInputs.cache
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\MidTerm\MidTermAtHome\MidTermAtHome\obj\Debug\MidTermAtHome.exe
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\MidTerm\MidTermAtHome\MidTermAtHome\obj\Debug\MidTermAtHome.pdb
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\MidTerm\MidTermAtHome - Array Lists\MidTermAtHome\obj\Debug\MidTermAtHome.csproj.AssemblyReference.cache
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\MidTerm\MidTermAtHome - Array Lists\MidTermAtHome\obj\Debug\MidTermAtHome.csproj.CoreCompileInputs.cache
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\MidTerm\MidTermAtHome - Array Lists\MidTermAtHome\obj\Debug\MidTermAtHome.exe
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\MidTerm\MidTermAtHome - Array Lists\MidTermAtHome\obj\Debug\MidTermAtHome.pdb
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\MidTerm\MidTermAtHome - Array Lists\MidTermAtHome\bin\Debug\MidTermAtHome.exe.config
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\MidTerm\MidTermAtHome - Array Lists\MidTermAtHome\bin\Debug\MidTermAtHome.exe
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\MidTerm\MidTermAtHome - Array Lists\MidTermAtHome\bin\Debug\MidTermAtHome.pdb

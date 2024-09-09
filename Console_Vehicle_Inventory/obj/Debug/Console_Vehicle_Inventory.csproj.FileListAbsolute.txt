@@ -1,0 +1,7 @@
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS-CAMBIAR NOMBRE\Console_Vehicle_Inventory\Console_Vehicle_Inventory\bin\Debug\MidTermAtHome.exe.config
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS-CAMBIAR NOMBRE\Console_Vehicle_Inventory\Console_Vehicle_Inventory\bin\Debug\MidTermAtHome.exe
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS-CAMBIAR NOMBRE\Console_Vehicle_Inventory\Console_Vehicle_Inventory\bin\Debug\MidTermAtHome.pdb
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS-CAMBIAR NOMBRE\Console_Vehicle_Inventory\Console_Vehicle_Inventory\obj\Debug\Console_Vehicle_Inventory.csproj.AssemblyReference.cache
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS-CAMBIAR NOMBRE\Console_Vehicle_Inventory\Console_Vehicle_Inventory\obj\Debug\Console_Vehicle_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS-CAMBIAR NOMBRE\Console_Vehicle_Inventory\Console_Vehicle_Inventory\obj\Debug\MidTermAtHome.exe
+C:\Users\xochi\OneDrive\Desktop\Term1\1175 Intro to Programming\GitHub-REMOVE COMMENTS-CAMBIAR NOMBRE\Console_Vehicle_Inventory\Console_Vehicle_Inventory\obj\Debug\MidTermAtHome.pdb
